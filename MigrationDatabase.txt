@@ -1,0 +1,3 @@
+dotnet ef
+dotnet ef migrations add initialMigrations
+dotnet ef database update
